@@ -1,2 +1,3 @@
 # BitcoinForecasting
-This is a project created to forecast bitcoin prices using the help of fbprophet
+Demo Video Link : https://drive.google.com/file/d/1BPDtHRtlJzqf3pf8rr2DZkSuDvUEdPA_/view?usp=sharing
+This project generates accurate prediction of Bitcoin prices for future time periods with the help of fbprophet
